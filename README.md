@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Panos Chatzinikolaou and I am a PhD candidate at Aristotle University of Thessaloniki, Greece.
+- 👋 Hello there, I’m Panos. 
+- 🎓 I am a PhD candidate in exercise physiology at Aristotle University of Thessaloniki, Greece.
 - 👀 I’m interested in exercise physiology and redox biology.
-- 💻 I’m passionate about R programming and have some experience with MatLab.
+- 💻 I’m using R for data analysis, statistics and visualization. I also have some experience with MatLab.
 - 📫 Email me at: chatzinpn@phed-sr.auth.gr
+- Follow me on twitter: @PanosChatz1
 
 <!---
 PanosChatzi/PanosChatzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
