@@ -1,7 +1,7 @@
 - 👋 Hello there, I’m Panos. 
-- 🎓 I am a PhD candidate in exercise physiology at Aristotle University of Thessaloniki, Greece.
-- 👀 I’m interested in exercise physiology and redox biology.
-- 💻 I’m using R for data analysis, statistics and visualization.
+- 🎓 I have a PhD in Exercise Physiology, Aristotle University of Thessaloniki, Greece.
+- 👀 I’m interested in muscle oxygenation, exercise fatigue, erythrocyte metabolism and quantitative biology of exercise.
+- 💻 I’m using R for data analysis, statistics and visualization. I also have experience in Matlab, and I am currently learning Python.
 - 📫 Email me at: chatzinpn@phed-sr.auth.gr
 - Follow me on twitter: @PanosChatz1
 
