@@ -1,10 +1,12 @@
 - 👋 Hello there, I’m Panos. 
 - 🎓 I have a PhD in Exercise Physiology, Aristotle University of Thessaloniki, Greece.
 - 👀 I’m interested in erythrocyte metabolism, muscle oxygenation, exercise fatigue, redox biology and quantitative biology of exercise.
+  
 - 💻 I’m using R for data analysis, statistics and visualization. I also have experience programming in Matlab. 
 - 📖 I'm currently learning Python and SQL.
+  
 - 📫 Email me at: chatzinpn@phed-sr.auth.gr
-- Follow me on twitter: @PanosChatz1
+- 🚀 Follow me on twitter: @PanosChatz1
 
 <!---
 PanosChatzi/PanosChatzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
