@@ -3,9 +3,7 @@
   
 - 💻 I’m using R for data analysis, statistics and visualization. I also have experience programming in Matlab. 
 - 📖 I'm currently learning Python and SQL.
-  
-- 📫 Email me at: chatzinp@gmail.com
-- 🚀 Follow me on Twitter: @PanosChatz1
+  - 🚀 Follow me on Twitter: @PanosChatz1
 
 <!---
 PanosChatzi/PanosChatzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
