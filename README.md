@@ -1,7 +1,7 @@
 - 👋 Hello there, I’m Panos. 
 - 🎓 I have a PhD in Exercise Physiology, Aristotle University of Thessaloniki, Greece.
   
-- 💻 I’m using R for data analysis, statistics and visualization. I also have experience programming in Python and Matlab. I'm also learning SQL and Power BI for data analytics and engineering.
+- 💻 I’m using R for data analysis, statistics and visualization. I also have experience programming in Python and Matlab. I'm currently learning SQL and Power BI for data analytics and engineering.
   
 - 📖 Currently following CS50's Introduction to Databases with SQL course.
 
